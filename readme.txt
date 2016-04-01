@@ -4,3 +4,4 @@ Git has amutable index called stage
 I am jiwei?
 who are you
 I am kanglu
+zhu ce l git
