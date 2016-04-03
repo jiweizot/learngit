@@ -5,3 +5,4 @@ I am jiwei?
 who are you
 I am kanglu
 zhu ce l git
+creat a new branch is quick
